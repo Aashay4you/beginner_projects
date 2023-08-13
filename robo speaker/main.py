@@ -16,7 +16,7 @@ import win32com.client as wincom
 
 speak = wincom.Dispatch("SAPI.SpVoice")
 
-text = input("Enter what you want to pronounce:")
+text = input("Enter what you want to pronounce:\n")
 speak.Speak(text)
 
 # # 3 second sleep
