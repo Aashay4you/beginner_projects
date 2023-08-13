@@ -19,7 +19,7 @@ speak = wincom.Dispatch("SAPI.SpVoice")
 text = input("Enter what you want to pronounce:\n")
 speak.Speak(text)
 
-# # 3 second sleep
+# # 3 second sleep #used to get it with pause
 # time.sleep(3)
 #
 # text = "This text is read after 3 seconds"
