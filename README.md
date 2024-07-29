@@ -1,3 +1,7 @@
-# beginner_projects
-just some fun pass time...
-can be changed in the near future accordingly.
+# Projects
+Built using current skills:-
+Pyhton
+Java
+Flutter
+Dart
+Firebase
